@@ -1,1 +1,1 @@
-# ep0_malangaMindset
+# lp90-training-platform
